@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👋 About me
-A programmer from Ukraine 🇺🇦
+A programmer from Ukraine.
 Machine Learning and AI enthusiast
 
 ### 🚀 Tech Stack
