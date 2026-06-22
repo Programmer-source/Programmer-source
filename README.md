@@ -4,6 +4,13 @@
 A programmer from Ukraine.
 Machine Learning and AI enthusiast
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Programmer-source&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=Programmer-source&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-source&layout=compact&theme=tokyonight)
+
+
 ### 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
