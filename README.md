@@ -1,4 +1,4 @@
-## Hi there 👋
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=58A6FF&lines=ML+%26+AI+enthusiast;IOAI+2026;Robotics+%26+creative+coding)
 
 ### 👋 About me
 A programmer from Ukraine.
