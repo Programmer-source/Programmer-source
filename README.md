@@ -27,4 +27,4 @@ Machine Learning and AI enthusiast
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🏆 Achievements
-![IOAI 2026](https://img.shields.io/badge/IOAI_2026-Honourable_Mention-FFD700?style=for-the-badge&logo=award&logoColor=black)
+![IOAI 2026](https://img.shields.io/badge/IOAI_2026-Honourable_Mention-FFD700?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjMDAwMDAwIiBkPSJNMjU2IDBMMzIgMTI4djE0NGMwIDIxMy43IDE0OC4zIDI1MC4zIDIyNCAyNDAgNzUuNyAxMC4zIDIyNC0yNi4zIDIyNC0yNDBWMTI4TDI1NiAweiIvPjwvc3ZnPg==&logoColor=black)
