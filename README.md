@@ -26,4 +26,5 @@ Machine Learning and AI enthusiast
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-source&layout=compact&theme=tokyonight)
+### 🏆 Achievements
+![IOAI 2026](https://img.shields.io/badge/IOAI_2026-Honourable_Mention-FFD700?style=for-the-badge&logo=award&logoColor=black)
